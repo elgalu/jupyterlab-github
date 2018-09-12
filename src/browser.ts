@@ -23,7 +23,7 @@ const MY_BINDER_BASE_URL = 'https://mybinder.org/v2/gh';
 /**
  * The GitHub base url.
  */
-export const DEFAULT_GITHUB_BASE_URL = 'https://github.com';
+export const DEFAULT_GITHUB_BASE_URL = 'https://github.bus.zalan.do';
 
 /**
  * The className for disabling the mybinder button.

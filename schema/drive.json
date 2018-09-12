@@ -12,7 +12,7 @@
     "baseUrl": {
       "type": "string",
       "title": "The GitHub Base URL",
-      "default": "https://github.com"
+      "default": "https://github.bus.zalan.do"
     }
   },
   "type": "object"

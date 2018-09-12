@@ -5,7 +5,7 @@ import { URLExt } from '@jupyterlab/coreutils';
 
 import { ServerConnection } from '@jupyterlab/services';
 
-export const GITHUB_API = 'https://api.github.com';
+export const GITHUB_API = 'https://github.bus.zalan.do/api/v3';
 
 /**
  * Make a client-side request to the GitHub API.
